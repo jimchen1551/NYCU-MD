@@ -1,5 +1,5 @@
 # Technology and Society
-This course is taught by C. K. Liu in autumn semester of 2019. 
+This course is taught by C. K. Liu in autumn semester of 2020. 
 1. Autonomous driving
 2. From innovation to use
 3. Monsanto
