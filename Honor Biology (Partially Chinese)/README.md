@@ -1,5 +1,5 @@
 # Honor Biology
-This course was taught by C. K. Chou from 2018 to 2019. 
+This course was taught by C. K. Chou from 2019 to 2020. 
 
 https://dls.ym.edu.tw/course/hb/
 
