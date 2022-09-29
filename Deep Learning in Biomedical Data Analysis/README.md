@@ -1,5 +1,5 @@
 # Deep Learning in Biomedical Data Analysis
-This course was taught by I. F. Chung in spring semester of 2020. 
+This course was taught by I. F. Chung in spring semester of 202. 
 
 Lab 1: MURA classification with VGG16
 
